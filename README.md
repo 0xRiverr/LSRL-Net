@@ -58,4 +58,4 @@ cd LSRL-Net/code
 
 CUDA_VISIBLE_DEVICES=0 python test_2D_fully_acdc.py --root_path ../data/ACDC --exp ACDC/LSRL-Net --num_classes 4 --labeled_num 3 --final_labeled_num 7
 ```
-Our code is based on the [UAMT](https://github.com/yulequan/UA-MT), [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [SLC-net](https://github.com/igip-liu/SLC-Net). Thanks for these authors for their valuable works.
+Our code is based on the [UAMT](https://github.com/yulequan/UA-MT), [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [SLC-Net](https://github.com/igip-liu/SLC-Net). Thanks for these authors for their valuable works.
