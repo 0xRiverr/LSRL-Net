@@ -18,7 +18,7 @@ Some important required packages include:
 
 ### 1、Clone the repo;
 ```
-git clone https://github.com/igip-liu/SLC-Net.git
+https://github.com/0xRiverr/LSRL-Net.git
 ```
 
 ### 2、Data Preparation;
