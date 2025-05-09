@@ -25,9 +25,9 @@ git clone https://github.com/igip-liu/SLC-Net.git
 
 The division method of training/validation/test set can be seen:
 
-[ACDC dataset](https://github.com/igip-liu/SLC-Net/tree/main/data/ACDC)
+[ACDC dataset](https://github.com/0xRiverr/LSRL-Net/tree/main/data/ACDC)
 
-[Prostate dataset](https://github.com/igip-liu/SLC-Net/tree/main/data/Prostate)
+[Prostate dataset](https://github.com/0xRiverr/LSRL-Net/tree/main/data/Prostate)
 
 The data that can be used to train our code can be seen:
 
@@ -36,7 +36,7 @@ The data that can be used to train our code can be seen:
 [Prostate dataset](https://promise12.grand-challenge.org/)
 
 
-The division of labeled/unlabeled datasets can be found in [this code](https://github.com/igip-liu/SLC-Net/blob/main/code/train_CLB.py)
+The division of labeled/unlabeled datasets can be found in [this code](https://github.com/0xRiverr/LSRL-Net/blob/main/code/train_LP_ACDC.py)
 
 You can regenerate the training data:
 ```
