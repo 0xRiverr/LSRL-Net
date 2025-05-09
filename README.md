@@ -45,14 +45,18 @@ cd LSRL-Net/code/dataloaders
 python acdc_data_processing.py
 ```
 
-### 3、Train the model;
+### 3、Level Set;
+
+The code for pre-segmentation using the level set method can be found [here]()
+
+### 4、Train the model;
 
 ```
 cd LSRL-Net/code
 
 CUDA_VISIBLE_DEVICES=0 python train_LP_ACDC.py --root_path ../data/ACDC --exp ACDC/LSRL-Net --num_classes 4 --labeled_num 3 --final_labeled_num 7
 ```
-### 4、Test the model;
+### 5、Test the model;
 ```
 cd LSRL-Net/code
 
