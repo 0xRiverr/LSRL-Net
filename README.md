@@ -1,5 +1,5 @@
 # LSRL-Net: A Level Set-Guided Re-learning Network for Semi-supervised Cardiac and Prostate Segmentation
-This repository is for our paper "LSRL-Net: A Level Set-Guided Re-learning Network for Semi-supervised Cardiac and Prostate Segmentation"
+This repository is for our paper ["LSRL-Net: A Level Set-Guided Re-learning Network for Semi-supervised Cardiac and Prostate Segmentation"](https://www.sciencedirect.com/science/article/abs/pii/S1746809425005737)
 
 ## Requirements
 Some important required packages include:
